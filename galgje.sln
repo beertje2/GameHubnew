@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "galgje", "galgje\galgje.csproj", "{7CDF3544-36FC-4F1B-B6C5-764408B0E328}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B357AFBE-6ACD-4F33-91A2-5B23BE41E825}"
+	ProjectSection(SolutionItems) = preProject
+		galgje\Form1.cs = galgje\Form1.cs
+		galgje\Form1.Designer.cs = galgje\Form1.Designer.cs
+		galgje\Form1.resx = galgje\Form1.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CDF3544-36FC-4F1B-B6C5-764408B0E328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDF3544-36FC-4F1B-B6C5-764408B0E328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDF3544-36FC-4F1B-B6C5-764408B0E328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDF3544-36FC-4F1B-B6C5-764408B0E328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D9A7F1-301F-4915-BFC4-EF3965A1ED97}
+	EndGlobalSection
+EndGlobal
